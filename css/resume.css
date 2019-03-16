@@ -86,7 +86,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #bd5d38;
+  color: #ffd600;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -182,19 +182,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #ffd600 !important;
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #ffd600 !important;
 }
 
 a {
-  color: #bd5d38;
+  color: #ffd600;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #824027;
+  color: #ffd600;
 }
